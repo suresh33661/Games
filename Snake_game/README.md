@@ -2,7 +2,7 @@
 
 Snake Game is a classic arcade game where the player controls a snake that moves around the screen, eating food to grow while avoiding collisions with walls and its own tail.
 
-![Game Screenshot](/Games/Snake_game/images/Screenshot%202023-10-25%20095721.png)
+![Game Screenshot](https://github.com/suresh33661/Games/blob/main/Snake_game/images/Screenshot%202023-10-25%20095721.png)
 
 ## Features
 
