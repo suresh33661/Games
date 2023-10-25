@@ -50,7 +50,7 @@ This project is licensed under the [MIT License](LICENSE.md).
 ## Acknowledgments
 
 - The Snake Game was inspired by the classic Snake game found on early mobile phones.
-- Special thanks to [Author Name] for the [Source of Game Assets] used in this project.
+
 
 Enjoy the game!
 
